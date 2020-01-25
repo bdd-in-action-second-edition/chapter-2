@@ -1,7 +1,7 @@
 # BDD in Action Second Edition - Chapter 2
 
-![](https://github.com/bdd-in-action-second-edition/chapter-1/workflows/Maven%20Build/badge.svg)
-![](https://github.com/bdd-in-action-second-edition/chapter-1/workflows/Gradle%20Build/badge.svg)
+![](https://github.com/bdd-in-action-second-edition/chapter-2/workflows/Maven%20Build/badge.svg)
+![](https://github.com/bdd-in-action-second-edition/chapter-2/workflows/Gradle%20Build/badge.svg)
 
 ## Code samples
 
